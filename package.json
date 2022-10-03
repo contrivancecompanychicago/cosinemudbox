@@ -1,0 +1,36 @@
+{
+  "name": "cosine-mud-box",
+  "version": "1.0.0",
+  "description": "The MUD Box for Contrivance Company Chicago",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@donmahallem/google-fit-api-types": "1.2.3",
+    "@firebase/database": "0.9.8",
+    "@mapbox/mapbox-sdk": "0.12.1",
+    "babylonjs": "4.2.0",
+    "bmi-utils": "1.1.0",
+    "dialogflow": "4.0.3",
+    "ez-games.js": "1.0.9",
+    "fitbit-node": "2.2.0",
+    "maptalks": "0.49.2",
+    "mcdonalds-api": "1.0.0",
+    "mongoose": "5.12.7",
+    "node-fetch-npm": "2.0.4",
+    "nutrition-label-jquery-plugin": "11.0.4",
+    "pizzapi": "0.0.8",
+    "qs": "6.10.1",
+    "react-here-maps": "0.4.0",
+    "react-youtube": "7.13.1",
+    "wix-catalyst-platformized-http-client": "1.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [
+    "games",
+    "bots"
+  ]
+}
